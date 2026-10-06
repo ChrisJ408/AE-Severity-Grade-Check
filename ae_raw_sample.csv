@@ -1,0 +1,162 @@
+study_id,subject_id,ae_number,event_term,start_date,start_time,end_date,end_time,ongoing,severity,serious,relationship_to_study_drug,action_taken,outcome,hospitalization,life_threatening,disability,death,congenital_anomaly,medically_important,reporter,report_date,treatment_given,treatment_details
+STUDY001,SUB0001,AE001,Anemia,7/16/2024,13:56,7/18/2024,17:18,No,Mild,Yes,Possibly Related,None,Resolving,No,No,No,No,No,No,Study Coordinator,7/16/2024,No,
+STUDY001,SUB0001,AE002,Fatigue,4/28/2024,9:37,5/16/2024,17:15,No,Mild,No,Possibly Related,Dose interrupted,Resolved,No,No,No,No,No,No,Subject,4/28/2024,Yes,Supportive care
+STUDY001,SUB0002,AE001,Hair loss,8/17/2024,19:18,8/20/2024,9:20,No,Mild,Yes,Possibly Related,Dose interrupted,Resolving,No,No,No,No,No,No,Subject,8/17/2024,No,
+STUDY001,SUB0003,AE001,Fatigue,7/1/2024,9:40,7/22/2024,20:14,No,Mild,Yes,Possibly Related,Dose reduced,Resolving,No,No,No,No,No,No,Study Coordinator,7/1/2024,Yes,Symptomatic treatment
+STUDY001,SUB0003,AE002,Vomiting,7/18/2024,20:56,7/23/2024,13:54,No,Mild,No,Not Related,None,Resolved,No,No,No,No,No,No,Investigator,7/18/2024,No,Supportive care
+STUDY001,SUB0004,AE001,Fatigue,7/22/2024,16:37,8/3/2024,11:23,No,Severe,No,Possibly Related,None,Not resolved,No,No,No,No,No,No,Investigator,7/22/2024,Yes,
+STUDY001,SUB0005,AE001,Peripheral neuropathy,5/16/2024,11:45,,,Yes,Mild,No,Probably Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Subject,5/16/2024,Yes,
+STUDY001,SUB0005,AE002,Hair loss,4/5/2024,17:26,,,Yes,Mild,Yes,Probably Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,4/5/2024,No,
+STUDY001,SUB0005,AE003,Fatigue,5/12/2024,8:47,5/13/2024,9:33,No,Severe,Yes,Possibly Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Investigator,5/12/2024,No,
+STUDY001,SUB0007,AE001,Anemia,6/22/2024,15:32,6/26/2024,15:51,No,Mild,No,Probably Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Subject,6/22/2024,Yes,
+STUDY001,SUB0008,AE001,Mucositis,7/25/2024,10:32,8/12/2024,9:36,No,Mild,No,Possibly Related,Dose interrupted,Resolved,No,No,No,No,No,No,Subject,7/25/2024,Yes,
+STUDY001,SUB0009,AE001,Mucositis,8/5/2024,18:00,,,Yes,Mild,Yes,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,8/5/2024,No,
+STUDY001,SUB0010,AE001,Anemia,5/20/2024,20:49,5/24/2024,18:06,Yes,Mild,Yes,Definitely Related,Drug withdrawn,Not resolved,Yes,No,No,No,No,No,Subject,5/20/2024,No,Symptomatic treatment
+STUDY001,SUB0010,AE002,Anemia,6/1/2024,7:35,6/1/2024,20:00,Yes,Moderate,Yes,Definitely Related,Drug withdrawn,Not resolved,Yes,No,No,No,No,No,Subject,5/20/2024,No,Symptomatic treatment
+STUDY001,SUB0011,AE001,Hair loss,7/7/2024,10:45,,,Yes,Mild,No,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,7/7/2024,No,Symptomatic treatment
+STUDY001,SUB0011,AE002,Mucositis,5/11/2024,11:18,5/15/2024,10:10,No,Mild,Yes,Not Related,Dose reduced,Resolved,No,No,No,No,No,No,Study Coordinator,5/11/2024,Yes,Supportive care
+STUDY001,SUB0011,AE003,Fatigue,5/24/2024,14:44,5/25/2024,9:25,No,Mild,Yes,Not Related,Dose interrupted,Resolved,No,No,No,No,No,No,Investigator,5/24/2024,Yes,Symptomatic treatment
+STUDY001,SUB0012,AE001,Nausea,4/20/2024,13:01,,,Yes,Mild,No,Possibly Related,None,Not resolved,No,No,No,No,No,No,Subject,4/20/2024,Yes,
+STUDY001,SUB0012,AE002,Anemia,4/21/2024,18:16,4/27/2024,15:21,No,Mild,No,Possibly Related,Dose reduced,Resolved,No,No,No,No,No,No,Study Coordinator,4/21/2024,No,Supportive care
+STUDY001,SUB0013,AE001,Diarrhea,4/19/2024,17:24,5/4/2024,18:30,No,Moderate,No,Possibly Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Study Coordinator,4/19/2024,No,
+STUDY001,SUB0015,AE001,Peripheral neuropathy,4/7/2024,14:20,,,Yes,Mild,No,Probably Related,Dose interrupted,Not resolved,Yes,No,No,No,No,No,Study Coordinator,4/7/2024,Yes,
+STUDY001,SUB0015,AE002,Diarrhea,4/9/2024,9:22,4/19/2024,9:35,No,Mild,Yes,Not Related,None,Resolving,No,No,No,No,No,No,Study Coordinator,4/9/2024,No,
+STUDY001,SUB0015,AE003,Thrombocytopenia,5/28/2024,11:37,6/15/2024,9:22,No,Mild,No,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,5/28/2024,Yes,
+STUDY001,SUB0016,AE001,Diarrhea,4/20/2024,11:29,,,Yes,Mild,No,Probably Related,None,Not resolved,No,No,No,No,No,No,Subject,4/20/2024,Yes,
+STUDY001,SUB0016,AE002,Nausea,5/5/2024,8:03,,,Yes,Mild,No,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,5/5/2024,Yes,
+STUDY001,SUB0017,AE001,Thrombocytopenia,7/13/2024,9:09,7/30/2024,17:36,No,Mild,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Study Coordinator,7/13/2024,Yes,
+STUDY001,SUB0020,AE001,Anemia,3/16/2024,8:24,4/3/2024,10:28,No,Moderate,No,Probably Related,None,Resolved,No,No,No,No,No,No,Investigator,3/16/2024,No,
+STUDY001,SUB0020,AE002,Vomiting,3/7/2024,8:59,3/22/2024,17:41,No,Mild,Yes,Possibly Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Investigator,3/7/2024,Yes,
+STUDY001,SUB0021,AE001,Nausea,4/25/2024,9:49,,,Yes,Mild,No,Not Related,Drug withdrawn,Not resolved,Yes,No,No,No,No,No,Study Coordinator,4/25/2024,Yes,
+STUDY001,SUB0021,AE002,Diarrhea,4/16/2024,13:55,4/17/2024,18:08,No,Mild,Yes,Probably Related,Dose reduced,Resolved,Yes,No,No,No,No,No,Study Coordinator,4/16/2024,Yes,
+STUDY001,SUB0021,AE003,Neutropenia,4/4/2024,14:17,4/23/2024,16:36,No,Mild,No,Not Related,None,Resolved with sequelae,No,No,No,No,No,No,Subject,4/4/2024,Yes,
+STUDY001,SUB0022,AE001,Diarrhea,6/5/2024,14:20,6/23/2024,18:10,No,Mild,No,Definitely Related,Dose reduced,Not resolved,Yes,No,No,No,No,No,Investigator,6/5/2024,No,Supportive care
+STUDY001,SUB0023,AE001,Anemia,5/24/2024,9:46,5/26/2024,17:27,No,Mild,No,Possibly Related,Dose reduced,Resolved with sequelae,No,No,No,No,No,No,Study Coordinator,5/24/2024,Yes,
+STUDY001,SUB0027,AE001,Hair loss,7/8/2024,11:34,,,Yes,Mild,No,Probably Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Investigator,7/8/2024,No,
+STUDY001,SUB0028,AE001,Anemia,7/19/2024,11:02,,,Yes,Mild,Yes,Possibly Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Subject,7/19/2024,No,
+STUDY001,SUB0028,AE002,Hair loss,8/6/2024,11:25,8/20/2024,15:41,No,Moderate,Yes,Probably Related,None,Resolving,No,No,No,No,No,No,Investigator,8/6/2024,No,
+STUDY001,SUB0029,AE001,Nausea,7/13/2024,18:35,,,Yes,Mild,No,Possibly Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Investigator,7/13/2024,No,
+STUDY001,SUB0029,AE002,Diarrhea,9/15/2024,13:34,10/6/2024,19:46,No,Moderate,No,Not Related,Dose reduced,Resolving,No,No,No,No,No,No,Investigator,9/15/2024,Yes,
+STUDY001,SUB0029,AE003,Diarrhea,7/27/2024,12:29,,,Yes,Mild,No,Possibly Related,None,Not resolved,No,No,No,No,No,No,Subject,7/27/2024,No,
+STUDY001,SUB0030,AE001,Anemia,9/17/2024,17:26,9/25/2024,18:13,No,Moderate,Yes,Possibly Related,Dose reduced,Resolved with sequelae,No,No,No,No,No,No,Study Coordinator,9/17/2024,No,Symptomatic treatment
+STUDY001,SUB0033,AE001,Peripheral neuropathy,5/18/2024,16:44,,,Yes,Mild,No,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,5/18/2024,No,
+STUDY001,SUB0033,AE002,Neutropenia,5/7/2024,12:09,5/24/2024,19:46,No,Mild,No,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,5/7/2024,Yes,
+STUDY001,SUB0033,AE003,Nausea,5/3/2024,8:25,,,Yes,Moderate,No,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,5/3/2024,No,
+STUDY001,SUB0036,AE001,Diarrhea,3/30/2024,16:00,,,Yes,Moderate,No,Not Related,None,Not resolved,No,No,No,No,No,No,Study Coordinator,3/30/2024,No,
+STUDY001,SUB0037,AE001,Diarrhea,5/2/2024,20:51,,,Yes,Mild,Yes,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,5/2/2024,No,
+STUDY001,SUB0037,AE002,Diarrhea,5/15/2024,13:00,,,Yes,Severe,Yes,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,5/15/2024,No,
+STUDY001,SUB0038,AE001,Mucositis,6/2/2024,13:36,6/10/2024,17:46,No,Moderate,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,Yes,Study Coordinator,6/2/2024,No,
+STUDY001,SUB0038,AE002,Anemia,4/27/2024,18:56,5/14/2024,11:00,No,Mild,No,Not Related,None,Resolving,No,No,No,No,No,No,Investigator,4/27/2024,Yes,
+STUDY001,SUB0038,AE003,Fatigue,4/2/2024,11:55,,,Yes,Mild,No,Probably Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,4/2/2024,Yes,
+STUDY001,SUB0039,AE001,Fatigue,8/7/2024,12:47,8/17/2024,15:45,No,Moderate,No,Not Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Investigator,8/7/2024,Yes,Symptomatic treatment
+STUDY001,SUB0039,AE002,Nausea,8/20/2024,10:02,9/9/2024,11:50,No,Moderate,Yes,Not Related,Dose interrupted,Resolved,No,No,No,No,No,No,Study Coordinator,8/20/2024,No,
+STUDY001,SUB0040,AE001,Thrombocytopenia,8/23/2024,12:20,9/6/2024,19:40,No,Moderate,No,Probably Related,Dose interrupted,Not resolved,Yes,No,No,No,No,No,Investigator,8/23/2024,Yes,
+STUDY001,SUB0041,AE001,Fatigue,5/5/2024,13:36,5/6/2024,17:53,No,Mild,No,Not Related,None,Not resolved,No,No,No,No,No,No,Subject,5/5/2024,No,
+STUDY001,SUB0042,AE001,Nausea,8/3/2024,16:45,8/24/2024,20:14,No,Mild,Yes,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Investigator,8/3/2024,Yes,
+STUDY001,SUB0043,AE001,Anemia,3/16/2024,18:12,3/25/2024,10:45,No,Moderate,Yes,Possibly Related,Dose interrupted,Resolved,No,No,No,No,No,No,Subject,3/16/2024,No,Supportive care
+STUDY001,SUB0044,AE001,Hair loss,8/20/2024,11:40,9/8/2024,13:47,No,Moderate,Yes,Possibly Related,Drug withdrawn,Not resolved,No,No,No,No,No,Yes,Subject,8/20/2024,No,
+STUDY001,SUB0046,AE001,Neutropenia,4/6/2024,11:36,4/9/2024,20:29,No,Moderate,No,Not Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Investigator,4/6/2024,No,
+STUDY001,SUB0047,AE001,Mucositis,5/12/2024,13:31,5/18/2024,17:49,No,Moderate,No,Not Related,Dose reduced,Resolving,No,No,No,No,No,No,Investigator,5/12/2024,No,
+STUDY001,SUB0048,AE001,Diarrhea,4/3/2024,12:27,4/17/2024,11:09,No,Mild,No,Possibly Related,Dose interrupted,Resolving,No,No,No,No,No,No,Study Coordinator,4/3/2024,No,Supportive care
+STUDY001,SUB0050,AE001,Vomiting,9/15/2024,12:41,10/3/2024,9:56,No,Severe,No,Not Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Study Coordinator,9/15/2024,No,Symptomatic treatment
+STUDY001,SUB0051,AE001,Diarrhea,8/10/2024,14:34,8/18/2024,13:13,No,Mild,No,Not Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Study Coordinator,8/10/2024,Yes,
+STUDY001,SUB0052,AE001,Neutropenia,7/16/2024,10:43,,,Yes,Mild,No,Definitely Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Study Coordinator,7/16/2024,Yes,
+STUDY001,SUB0054,AE001,Vomiting,7/10/2024,11:21,7/21/2024,20:57,No,Mild,Yes,Not Related,Dose reduced,Resolved with sequelae,No,No,No,No,No,No,Investigator,7/10/2024,Yes,
+STUDY001,SUB0056,AE001,Neutropenia,2/2/2024,16:49,2/12/2024,19:19,No,Mild,Yes,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,2/2/2024,Yes,Symptomatic treatment
+STUDY001,SUB0057,AE001,Nausea,6/24/2024,9:33,7/15/2024,18:03,No,Moderate,No,Possibly Related,Dose interrupted,Resolved with sequelae,No,No,No,No,No,No,Subject,6/24/2024,No,
+STUDY001,SUB0057,AE002,Nausea,6/18/2024,17:15,,,Yes,Mild,No,Possibly Related,None,Not resolved,No,No,No,No,No,No,Subject,6/18/2024,No,Supportive care
+STUDY001,SUB0058,AE001,Fatigue,6/2/2024,18:36,6/6/2024,9:44,No,Mild,No,Not Related,Dose interrupted,Resolved,Yes,No,No,No,No,Yes,Study Coordinator,6/2/2024,Yes,
+STUDY001,SUB0058,AE002,Diarrhea,5/15/2024,17:30,5/27/2024,19:34,No,Moderate,Yes,Probably Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,5/15/2024,No,
+STUDY001,SUB0059,AE001,Nausea,6/5/2024,8:46,6/15/2024,14:48,No,Mild,Yes,Not Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Investigator,6/5/2024,No,Supportive care
+STUDY001,SUB0061,AE001,Mucositis,7/6/2024,11:40,7/10/2024,16:21,No,Mild,Yes,Not Related,None,Resolved,No,No,No,No,No,No,Investigator,7/6/2024,No,
+STUDY001,SUB0061,AE002,Thrombocytopenia,5/22/2024,12:33,6/5/2024,12:09,No,Moderate,No,Not Related,None,Resolved with sequelae,No,No,No,No,No,No,Study Coordinator,5/22/2024,Yes,
+STUDY001,SUB0061,AE003,Fatigue,6/27/2024,10:37,7/1/2024,9:06,No,Mild,No,Definitely Related,Dose interrupted,Resolving,No,No,No,No,No,No,Subject,6/27/2024,Yes,Symptomatic treatment
+STUDY001,SUB0062,AE001,Hair loss,2/17/2024,8:29,2/27/2024,12:28,No,Moderate,Yes,Possibly Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Investigator,2/17/2024,No,
+STUDY001,SUB0063,AE001,Mucositis,3/12/2024,15:16,4/1/2024,17:47,No,Severe,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Investigator,3/12/2024,No,Supportive care
+STUDY001,SUB0063,AE002,Anemia,3/30/2024,20:49,4/15/2024,9:41,No,Severe,No,Definitely Related,None,Resolved,No,No,No,No,No,No,Investigator,3/30/2024,Yes,
+STUDY001,SUB0064,AE001,Hair loss,7/16/2024,9:41,8/4/2024,18:00,No,Severe,No,Probably Related,None,Resolved with sequelae,Yes,No,No,No,No,No,Subject,7/16/2024,Yes,
+STUDY001,SUB0065,AE001,Neutropenia,4/26/2024,11:46,5/14/2024,9:18,No,Mild,Yes,Probably Related,Dose interrupted,Resolved,No,No,No,No,No,No,Study Coordinator,4/26/2024,Yes,
+STUDY001,SUB0069,AE001,Diarrhea,5/21/2024,19:15,5/28/2024,20:27,No,Moderate,No,Possibly Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Subject,5/21/2024,No,
+STUDY001,SUB0070,AE001,Vomiting,4/8/2024,12:58,4/17/2024,11:25,No,Moderate,Yes,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,4/8/2024,Yes,
+STUDY001,SUB0070,AE002,Nausea,6/13/2024,18:32,6/14/2024,14:21,No,Mild,No,Not Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Study Coordinator,6/13/2024,No,
+STUDY001,SUB0072,AE001,Thrombocytopenia,8/11/2024,11:55,8/22/2024,14:25,No,Moderate,No,Possibly Related,Dose reduced,Resolved,No,No,No,No,No,No,Subject,8/11/2024,Yes,
+STUDY001,SUB0075,AE001,Fatigue,7/24/2024,20:29,7/30/2024,19:30,No,Mild,No,Possibly Related,Dose interrupted,Resolved,No,No,No,No,No,No,Study Coordinator,7/24/2024,Yes,Symptomatic treatment
+STUDY001,SUB0076,AE001,Nausea,5/19/2024,12:59,5/31/2024,12:52,No,Moderate,No,Possibly Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Subject,5/19/2024,No,
+STUDY001,SUB0077,AE001,Anemia,6/9/2024,15:54,,,Yes,Mild,No,Probably Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Study Coordinator,6/9/2024,No,
+STUDY001,SUB0077,AE002,Peripheral neuropathy,7/21/2024,15:22,8/3/2024,18:48,No,Mild,Yes,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,7/21/2024,Yes,
+STUDY001,SUB0078,AE001,Nausea,3/1/2024,10:45,,,Yes,Mild,No,Definitely Related,None,Not resolved,No,No,No,No,No,No,Subject,3/1/2024,No,
+STUDY001,SUB0078,AE002,Mucositis,3/11/2024,9:19,3/25/2024,10:34,No,Moderate,No,Possibly Related,Dose interrupted,Resolved with sequelae,No,No,No,No,No,No,Investigator,3/11/2024,Yes,
+STUDY001,SUB0078,AE003,Anemia,3/13/2024,9:59,3/19/2024,8:26,No,Mild,Yes,Definitely Related,None,Resolving,Yes,No,No,No,No,No,Subject,3/13/2024,Yes,
+STUDY001,SUB0079,AE001,Mucositis,7/22/2024,18:10,,,Yes,Mild,Yes,Possibly Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Subject,7/22/2024,Yes,
+STUDY001,SUB0079,AE002,Fatigue,7/12/2024,14:32,7/14/2024,15:09,No,Mild,No,Not Related,Dose interrupted,Resolving,No,No,No,No,No,Yes,Subject,7/12/2024,Yes,Symptomatic treatment
+STUDY001,SUB0079,AE003,Anemia,7/3/2024,19:34,7/24/2024,9:19,No,Mild,No,Not Related,Drug withdrawn,Resolved,Yes,No,No,No,No,Yes,Subject,7/3/2024,Yes,
+STUDY001,SUB0080,AE001,Fatigue,6/6/2024,17:23,6/26/2024,16:19,No,Mild,No,Possibly Related,Dose reduced,Resolved with sequelae,No,No,No,No,No,No,Investigator,6/6/2024,No,Supportive care
+STUDY001,SUB0081,AE001,Thrombocytopenia,7/9/2024,8:58,7/17/2024,16:06,No,Moderate,Yes,Definitely Related,Dose reduced,Resolving,No,No,No,No,No,No,Investigator,7/9/2024,Yes,
+STUDY001,SUB0083,AE001,Peripheral neuropathy,5/16/2024,15:02,5/25/2024,11:20,No,Mild,Yes,Probably Related,Dose interrupted,Resolved,No,No,No,No,No,No,Investigator,5/16/2024,Yes,
+STUDY001,SUB0084,AE001,Mucositis,3/20/2024,11:56,4/1/2024,9:36,No,Mild,No,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,3/20/2024,Yes,
+STUDY001,SUB0084,AE002,Nausea,3/25/2024,10:24,4/4/2024,10:56,No,Severe,Yes,Not Related,None,Resolved,No,No,No,No,No,No,Subject,3/25/2024,No,
+STUDY001,SUB0085,AE001,Thrombocytopenia,5/12/2024,10:05,5/20/2024,9:51,No,Mild,No,Definitely Related,Dose reduced,Resolved,No,No,No,No,No,No,Subject,5/12/2024,No,
+STUDY001,SUB0086,AE001,Mucositis,9/30/2024,10:45,,,Yes,Mild,No,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Investigator,9/30/2024,No,
+STUDY001,SUB0088,AE001,Diarrhea,7/22/2024,10:32,,,Yes,Moderate,No,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,7/22/2024,No,
+STUDY001,SUB0089,AE001,Neutropenia,7/8/2024,14:21,7/17/2024,8:18,No,Moderate,No,Probably Related,Drug withdrawn,Resolving,No,No,No,No,No,Yes,Subject,7/8/2024,No,
+STUDY001,SUB0089,AE002,Hair loss,7/9/2024,13:23,7/15/2024,19:40,No,Severe,No,Definitely Related,Dose reduced,Resolved,No,No,No,No,No,No,Subject,7/9/2024,No,
+STUDY001,SUB0089,AE003,Diarrhea,6/15/2024,19:55,,,Yes,Mild,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Subject,6/15/2024,No,
+STUDY001,SUB0091,AE001,Neutropenia,2/20/2024,8:18,2/21/2024,18:31,No,Severe,Yes,Possibly Related,Drug withdrawn,Resolved with sequelae,Yes,No,No,No,No,Yes,Study Coordinator,2/20/2024,No,Symptomatic treatment
+STUDY001,SUB0094,AE001,Neutropenia,5/9/2024,17:32,,,Yes,Mild,No,Not Related,None,Not resolved,No,No,No,No,No,No,Study Coordinator,5/9/2024,Yes,Supportive care
+STUDY001,SUB0095,AE001,Diarrhea,3/28/2024,14:15,4/3/2024,9:39,No,Severe,No,Probably Related,Dose interrupted,Resolved,No,No,No,No,No,Yes,Study Coordinator,3/28/2024,Yes,
+STUDY001,SUB0095,AE002,Peripheral neuropathy,3/20/2024,13:50,3/30/2024,18:49,No,Mild,No,Probably Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Study Coordinator,3/20/2024,Yes,
+STUDY001,SUB0096,AE001,Neutropenia,6/14/2024,20:21,,,Yes,Mild,No,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,6/14/2024,Yes,
+STUDY001,SUB0097,AE001,Fatigue,7/22/2024,18:40,8/2/2024,11:50,No,Moderate,No,Not Related,None,Resolving,Yes,No,No,No,No,No,Subject,7/22/2024,No,
+STUDY001,SUB0098,AE001,Neutropenia,6/21/2024,15:39,,,Yes,Mild,Yes,Possibly Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Subject,6/21/2024,No,Symptomatic treatment
+STUDY001,SUB0099,AE001,Mucositis,4/30/2024,17:18,5/4/2024,18:28,No,Mild,No,Not Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Subject,4/30/2024,No,
+STUDY001,SUB0099,AE002,Fatigue,4/17/2024,15:37,5/1/2024,11:14,No,Mild,No,Possibly Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Investigator,4/17/2024,No,
+STUDY001,SUB0100,AE001,Peripheral neuropathy,4/30/2024,10:41,,,Yes,Moderate,Yes,Possibly Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,4/30/2024,No,
+STUDY001,SUB0101,AE001,Thrombocytopenia,7/8/2024,10:45,7/16/2024,14:15,No,Severe,Yes,Probably Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Study Coordinator,7/8/2024,Yes,
+STUDY001,SUB0106,AE001,Peripheral neuropathy,7/27/2024,18:12,8/13/2024,14:58,No,Severe,No,Probably Related,Dose interrupted,Not resolved,No,No,No,No,No,Yes,Study Coordinator,7/27/2024,Yes,
+STUDY001,SUB0107,AE001,Diarrhea,9/3/2024,13:04,,,Yes,Mild,No,Not Related,None,Not resolved,No,No,No,No,No,No,Study Coordinator,9/3/2024,Yes,Supportive care
+STUDY001,SUB0108,AE001,Vomiting,2/3/2024,8:28,2/15/2024,9:06,No,Mild,No,Not Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Study Coordinator,2/3/2024,Yes,
+STUDY001,SUB0109,AE001,Vomiting,7/13/2024,10:27,,,Yes,Mild,Yes,Definitely Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,7/13/2024,No,
+STUDY001,SUB0110,AE001,Neutropenia,6/15/2024,10:12,7/3/2024,13:27,No,Moderate,No,Not Related,Dose reduced,Resolving,No,No,No,No,No,No,Study Coordinator,6/15/2024,No,
+STUDY001,SUB0111,AE001,Peripheral neuropathy,7/6/2024,18:18,,,Yes,Mild,No,Not Related,None,Not resolved,No,No,No,No,No,No,Subject,7/6/2024,No,
+STUDY001,SUB0112,AE001,Anemia,3/27/2024,12:14,,,Yes,Moderate,No,Definitely Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,3/27/2024,Yes,Symptomatic treatment
+STUDY001,SUB0113,AE001,Diarrhea,7/27/2024,14:09,8/14/2024,11:22,No,Moderate,No,Possibly Related,Dose reduced,Resolved,No,No,No,No,No,Yes,Study Coordinator,7/27/2024,No,
+STUDY001,SUB0115,AE001,Peripheral neuropathy,3/22/2024,11:10,,,Yes,Mild,Yes,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,3/22/2024,No,Supportive care
+STUDY001,SUB0115,AE002,Mucositis,5/1/2024,15:35,,,Yes,Moderate,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Investigator,5/1/2024,No,
+STUDY001,SUB0115,AE003,Thrombocytopenia,4/11/2024,15:44,4/28/2024,16:45,No,Severe,No,Possibly Related,None,Resolving,No,No,No,No,No,No,Subject,4/11/2024,No,
+STUDY001,SUB0117,AE001,Fatigue,3/27/2024,8:03,,,Yes,Mild,Yes,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Investigator,3/27/2024,Yes,
+STUDY001,SUB0118,AE001,Mucositis,6/13/2024,10:03,6/25/2024,12:30,No,Moderate,No,Probably Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Study Coordinator,6/13/2024,Yes,
+STUDY001,SUB0118,AE002,Fatigue,7/7/2024,17:38,,,Yes,Moderate,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Investigator,7/7/2024,No,
+STUDY001,SUB0119,AE001,Vomiting,2/22/2024,10:29,3/3/2024,20:10,No,Mild,No,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,2/22/2024,Yes,
+STUDY001,SUB0119,AE002,Thrombocytopenia,4/22/2024,16:57,5/4/2024,19:22,No,Severe,No,Probably Related,Drug withdrawn,Resolved,No,No,No,No,No,Yes,Study Coordinator,4/22/2024,Yes,
+STUDY001,SUB0120,AE001,Nausea,7/17/2024,18:07,8/5/2024,12:00,No,Mild,No,Definitely Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Subject,7/17/2024,No,
+STUDY001,SUB0120,AE002,Thrombocytopenia,7/9/2024,19:53,7/30/2024,13:44,No,Mild,Yes,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,7/9/2024,No,
+STUDY001,SUB0122,AE001,Thrombocytopenia,4/15/2024,10:05,5/6/2024,15:08,No,Moderate,Yes,Possibly Related,Dose interrupted,Resolved with sequelae,Yes,No,No,No,No,No,Investigator,4/15/2024,Yes,
+STUDY001,SUB0122,AE002,Peripheral neuropathy,4/4/2024,16:12,4/10/2024,20:57,No,Mild,No,Not Related,Dose reduced,Resolved with sequelae,No,No,No,No,No,No,Study Coordinator,4/4/2024,Yes,
+STUDY001,SUB0122,AE003,Peripheral neuropathy,4/3/2024,11:23,4/24/2024,14:26,No,Mild,No,Not Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Subject,4/3/2024,No,Symptomatic treatment
+STUDY001,SUB0124,AE001,Diarrhea,6/9/2024,16:07,6/10/2024,19:03,No,Moderate,No,Possibly Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Subject,6/9/2024,No,
+STUDY001,SUB0125,AE001,Nausea,4/27/2024,17:56,5/6/2024,17:12,No,Severe,No,Not Related,None,Resolving,No,No,No,No,No,No,Study Coordinator,4/27/2024,No,
+STUDY001,SUB0127,AE001,Neutropenia,2/25/2024,15:41,,,Yes,Moderate,Yes,Definitely Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Investigator,2/25/2024,No,
+STUDY001,SUB0128,AE001,Neutropenia,5/27/2024,19:47,5/29/2024,17:57,No,Mild,No,Not Related,Dose interrupted,Resolved with sequelae,No,No,No,No,No,No,Subject,5/27/2024,No,
+STUDY001,SUB0129,AE001,Hair loss,7/5/2024,10:21,7/12/2024,15:48,No,Mild,Yes,Probably Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,7/5/2024,No,
+STUDY001,SUB0131,AE001,Nausea,6/27/2024,10:41,7/5/2024,16:24,No,Mild,No,Possibly Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Subject,6/27/2024,Yes,Symptomatic treatment
+STUDY001,SUB0132,AE001,Hair loss,5/28/2024,13:04,,,Yes,Mild,Yes,Possibly Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Study Coordinator,5/28/2024,No,
+STUDY001,SUB0132,AE002,Peripheral neuropathy,5/17/2024,19:50,,,Yes,Mild,No,Probably Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,5/17/2024,No,
+STUDY001,SUB0133,AE001,Mucositis,2/21/2024,16:08,3/11/2024,18:20,No,Severe,Yes,Probably Related,Dose interrupted,Resolving,No,No,No,No,No,No,Investigator,2/21/2024,Yes,Supportive care
+STUDY001,SUB0134,AE001,Vomiting,6/30/2024,17:08,7/9/2024,16:48,No,Mild,Yes,Possibly Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Subject,6/30/2024,Yes,
+STUDY001,SUB0135,AE001,Anemia,4/28/2024,12:10,,,Yes,Mild,No,Possibly Related,Dose reduced,Not resolved,Yes,No,No,No,No,No,Subject,4/28/2024,Yes,Symptomatic treatment
+STUDY001,SUB0135,AE002,Vomiting,7/3/2024,9:39,7/11/2024,16:11,No,Mild,No,Possibly Related,None,Resolved with sequelae,Yes,No,No,No,No,No,Investigator,7/3/2024,Yes,
+STUDY001,SUB0139,AE001,Hair loss,6/18/2024,18:53,6/30/2024,15:32,No,Moderate,No,Probably Related,Dose interrupted,Resolving,No,No,No,No,No,No,Investigator,6/18/2024,No,
+STUDY001,SUB0139,AE002,Diarrhea,4/28/2024,10:38,5/15/2024,15:33,No,Mild,No,Possibly Related,Dose reduced,Resolved,No,No,No,No,No,No,Study Coordinator,4/28/2024,Yes,
+STUDY001,SUB0141,AE001,Peripheral neuropathy,6/21/2024,12:26,6/24/2024,8:02,No,Mild,No,Possibly Related,Dose reduced,Resolving,No,No,No,No,No,No,Study Coordinator,6/21/2024,No,
+STUDY001,SUB0141,AE002,Neutropenia,7/15/2024,11:57,,,Yes,Mild,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Subject,7/15/2024,Yes,
+STUDY001,SUB0141,AE003,Diarrhea,7/26/2024,17:39,8/8/2024,20:29,No,Mild,No,Definitely Related,None,Resolving,No,No,No,No,No,No,Subject,7/26/2024,No,
+STUDY001,SUB0142,AE001,Anemia,7/26/2024,18:52,,,Yes,Severe,No,Possibly Related,None,Not resolved,No,No,No,No,No,No,Subject,7/26/2024,No,
+STUDY001,SUB0143,AE001,Thrombocytopenia,5/29/2024,13:18,6/16/2024,11:11,No,Mild,No,Not Related,Dose interrupted,Resolving,Yes,No,No,No,No,No,Study Coordinator,5/29/2024,No,
+STUDY001,SUB0143,AE002,Hair loss,7/17/2024,11:56,8/3/2024,13:55,No,Moderate,No,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Investigator,7/17/2024,No,
+STUDY001,SUB0144,AE001,Mucositis,8/3/2024,16:31,,,Yes,Mild,No,Possibly Related,Dose interrupted,Not resolved,Yes,No,No,No,No,No,Study Coordinator,8/3/2024,Yes,Supportive care
+STUDY001,SUB0146,AE001,Hair loss,9/7/2024,13:29,,,Yes,Mild,No,Probably Related,None,Not resolved,No,No,No,No,No,No,Study Coordinator,9/7/2024,No,
+STUDY001,SUB0146,AE002,Mucositis,7/23/2024,20:56,8/3/2024,12:42,No,Mild,Yes,Possibly Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Subject,7/23/2024,Yes,Supportive care
+STUDY001,SUB0147,AE001,Mucositis,6/16/2024,12:52,,,Yes,Severe,Yes,Definitely Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Investigator,6/16/2024,Yes,
+STUDY001,SUB0148,AE001,Anemia,4/24/2024,13:19,5/15/2024,10:49,No,Mild,No,Possibly Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,4/24/2024,Yes,Symptomatic treatment
+STUDY001,SUB0149,AE001,Diarrhea,5/9/2024,10:14,5/11/2024,20:05,No,Mild,Yes,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,5/9/2024,No,
+STUDY001,SUB0150,AE001,Neutropenia,4/3/2024,17:31,4/15/2024,16:52,No,Moderate,No,Possibly Related,Dose reduced,Resolving,No,No,No,No,No,No,Subject,4/3/2024,Yes,
