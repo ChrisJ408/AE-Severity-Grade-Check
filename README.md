@@ -6,7 +6,7 @@ INPUT FILE:
 - AE (Adverse Event) CRF dataset. For the purpose of this project, a sample raw AE csv file was input to serve as a sample dataset.
 
 SPECS:
-- Current/most recent Ongoing = "Yes"
+- Ongoing = "Yes"
 - Previous Ongoing = "Yes"
 - Serious = "Yes"
 - Flag and output if severity grade increased from the previous recorded event of the same AE Event.
